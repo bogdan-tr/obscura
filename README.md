@@ -2,6 +2,8 @@
 
 A modern GUI application for private data removal with configuration management. Built with Java and Python, Obscura provides an intuitive interface for processing text according to customizable rules.
 
+<img width="1197" height="817" alt="image" src="https://github.com/user-attachments/assets/54a2fc85-4fcb-4258-8e1c-447e7f320c69" />
+
 ## Purpose
 
 Let's say you want to ask ChatGPT to review your resume, but don't want to leak your personal information. Instead of manually deleting all of it, you can use Obscura. Obscura will delete/reformat all your private information according to your configuration. This can be done for any document with private information in it.
@@ -56,6 +58,8 @@ That's it! Now run it with `obscura` in the terminal.
 - `Jacob` with no replacement will simply be deleted.
 - `;; this is a comment` any `;;` specify the start of a comment.
 
+<img width="1194" height="804" alt="image" src="https://github.com/user-attachments/assets/9d51e8ca-8f82-4a44-bae1-a155e49ff912" />
+
 ## Uninstall
 
 ```bash
@@ -72,3 +76,4 @@ chmod +x uninstall.sh
 
 ## Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-trigubov-bt3g)
